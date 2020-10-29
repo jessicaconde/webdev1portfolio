@@ -1,0 +1,64 @@
+h1 {
+    color: black;
+    font-size: 26pt;
+    font-family: Comic Sans MS;
+    margin-left: 20px;
+    margin-top: 10px;
+    position: fixed;
+    display: inline;
+}
+
+.annoyingdogtop {
+    margin-left: 300px;
+}
+
+body {
+    /*background: repeating-linear-gradient(
+        45deg,
+        red 0px,
+        orange 10px,
+        yellow 20px,
+        green 30px,
+        blue 40px
+      );*/
+      background-color: lightpink;
+}
+
+#bodyimgs {
+    position: absolute;
+    left: 300px;
+}
+
+#sidebarbox {
+    display: inline-block;
+    padding: 30px 30px 30px 30px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    position: fixed;
+    width:170px;
+    right: 80%;
+    left: 35px;
+    top: 260px;
+}
+
+#sidebarimg {
+    display: inline-block;
+    padding: 10px 5px 10px 5px;
+    background-color: white;
+    text-align: center;
+    position: fixed;
+    width: 150px;
+    right: 80%;
+    left: 70px;
+    top: 90px;
+}
+
+#player {
+    width: 170px;
+}
+
+#songname {
+    text-align: center;
+    font-size: 10px;
+}
