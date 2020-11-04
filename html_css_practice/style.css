@@ -1,0 +1,109 @@
+body {
+    background: #DC76A0;
+    text-align: center;
+  }
+  
+  .tight-width {
+    margin:0 auto;
+    max-width: 650px;
+  }
+  
+  h1 {
+    border: 1px solid white;
+    margin:0 auto;
+    max-width:200px;
+  }
+  
+  .white-text {
+      color: white;
+  }
+  
+  .box {
+    font-family: courier new;
+    font-size: 2.5vh;
+    background: black;
+    margin: 10px 0px 0px 0px;
+    max-width: 650px;
+    padding: 5px 20px 5px 20px;
+    box-shadow: 15px 10px 15px 0px   #333333;
+  }
+  
+  a {
+    color: turquoise;
+    font-size: 20px;
+}
+  
+  a:hover {
+    color: darkblue;
+  }
+  
+  .bones {
+    margin: 10px 10px 10px 10px;
+  }
+  
+  .dog-imgs {
+    border: 1px solid white;
+    box-shadow: 15px 15px 10px 0px #333333;
+    margin: 25px 20px 20px 20px;
+    width: 8vw;
+  }
+  
+  #clark-box {
+    font-family: arial;
+    font-size: 60%;
+    background: black;
+    width: 120px;
+    height: 130px;
+    margin: 0px 5px 10px 5px;
+    padding: 5px 20px 15px 20px;
+    box-shadow: 15px 10px 15px 0px   #333333;
+    display: inline-block;
+  }
+  
+  #bruce-box {
+    font-family: arial;
+    font-size: 60%;
+    background: black;
+    width: 120px;
+    height: 130px;
+    margin: 0px 5px 10px 5px;
+    padding: 5px 20px 15px 20px;
+    box-shadow: 15px 10px 15px 0px   #333333;
+    display: inline-block;
+  }
+  
+  #diana-box {
+    font-family: arial;
+    font-size: 60%;
+    background: black;
+    width: 120px;
+    height: 130px;
+    margin: 0px 5px 15px 5px;
+    padding: 5px 20px 15px 20px;
+    box-shadow: 15px 10px 15px 0px   #333333;
+    display: inline-block;
+  }
+  
+  #pepper-box {
+    font-family: arial;
+    font-size: 60%;
+    background: black;
+    width: 120px;
+    height: 130px;
+    margin: 0px 5px 10px 5px;
+    padding: 5px 20px 15px 20px;
+    box-shadow: 15px 10px 15px 0px   #333333;
+    display: inline-block;
+  }
+  
+  #snuggy-box {
+    font-family: arial;
+    font-size: 60%;
+    background: black;
+    width: 120px;
+    height: 130px;
+    margin: 0px 5px 10px 5px;
+    padding: 5px 20px 15px 20px;
+    box-shadow: 15px 10px 15px 0px   #333333;
+    display: inline-block;
+  }
