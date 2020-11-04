@@ -56,9 +56,17 @@ body {
 
 #player {
     width: 170px;
+    height: 30px;
 }
 
 #songname {
     text-align: center;
     font-size: 10px;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    color: turquoise;
+    font-size: 20px;
 }
