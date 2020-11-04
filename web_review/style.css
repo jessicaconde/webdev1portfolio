@@ -12,3 +12,8 @@ p {
     margin:0 auto;
     max-width: 650px;
 }
+
+a {
+    color: turquoise;
+    font-size: 20px;
+}
