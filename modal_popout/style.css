@@ -23,19 +23,22 @@ button {
 .modal-content {
     background-color: skyblue;
     text-align: center;
-    padding: 30px;
     margin-left: 38vw;
     border: 3px solid white;
     border-radius: 15px;
     width: 20vw;
 }
 
+p {
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+
 .close {
     color: white;
     font-size: 30px;
-    font-weight: 800;
-    transform: rotateZ(45deg);
-    float: right;
+    font-weight: bold;
+    padding-left: 17vw;
 }
 
 .close:hover {
