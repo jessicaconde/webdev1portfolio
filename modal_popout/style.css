@@ -5,6 +5,10 @@
     flex-direction: column;
 }
 
+body {
+    background-color: lavender;
+}
+
 button {
     margin-top: 40vh;
 }
