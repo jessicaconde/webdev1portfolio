@@ -46,7 +46,7 @@ p {
     padding-left: 17vw;
 }
 
-.close:hover {
+.close:hover, .close:focus {
     color: gray;
     cursor: pointer;
 }
